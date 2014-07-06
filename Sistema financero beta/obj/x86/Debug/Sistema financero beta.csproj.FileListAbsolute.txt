@@ -1,0 +1,29 @@
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\bin\Debug\Sistema financero beta.exe
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\bin\Debug\Sistema financero beta.pdb
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.Carregamento.resources
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.Properties.Resources.resources
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema financero beta.csproj.GenerateResource.Cache
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema financero beta.exe
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema financero beta.pdb
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.TelaLogin.resources
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema financero beta.csprojResolveAssemblyReference.cache
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.Carregamento_2_Principal.resources
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.Principal.resources
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.FSIG1_CADEMP.resources
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\alex\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.Controle.resources
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema financero beta.exe
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema financero beta.pdb
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\bin\Debug\Sistema financero beta.exe
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\bin\Debug\Sistema financero beta.pdb
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema financero beta.csprojResolveAssemblyReference.cache
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.Carregamento_2_Principal.resources
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.Carregamento.resources
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.Controle.resources
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.FSIG1_CADEMP.resources
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.Principal.resources
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.Properties.Resources.resources
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.TelaLogin.resources
+C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema financero beta.csproj.GenerateResource.Cache
