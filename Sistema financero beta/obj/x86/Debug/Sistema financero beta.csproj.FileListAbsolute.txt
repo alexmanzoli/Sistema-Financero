@@ -27,3 +27,5 @@ C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\ob
 C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.Properties.Resources.resources
 C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema_financero_beta.TelaLogin.resources
 C:\Users\Term01\Dropbox\Sistema\Sistema financero beta\Sistema financero beta\obj\x86\Debug\Sistema financero beta.csproj.GenerateResource.Cache
+C:\Users\Term01\Documents\GitHub\Sistema-Financero\Sistema financero beta\obj\x86\Debug\Sistema financero beta.exe
+C:\Users\Term01\Documents\GitHub\Sistema-Financero\Sistema financero beta\obj\x86\Debug\Sistema financero beta.pdb
