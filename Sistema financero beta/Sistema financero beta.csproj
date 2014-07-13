@@ -73,6 +73,7 @@
     <Compile Include="Carregamento.Designer.cs">
       <DependentUpon>Carregamento.cs</DependentUpon>
     </Compile>
+    <Compile Include="Class banco.cs" />
     <Compile Include="FSIG1_CADEMP.cs">
       <SubType>Form</SubType>
     </Compile>
